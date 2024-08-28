@@ -21,6 +21,11 @@ author = {Zheng Hu and Satoshi Nakagawa and Shi-Min Cai and Fuji Ren and Jiawen 
 keywords = {Recommender systems, Cross-market recommendation, Transfer learning}
 }
 ```
+## Old version on Arxiv
+Old version: [Bert4XMR: Cross-Market Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/2305.15145).
+
+For more comprehensive analysis and experiments, please refer to our latest edition published on Information Systems: [Enhancing cross-market recommendations by addressing negative transfer and leveraging item co-occurrences](https://doi.org/10.1016/j.is.2024.102388).
+
 ## Environment Requirement
 The code has been tested running under Python 3.6.5. The required packages are as follows:
 * torch == 1.13.0
