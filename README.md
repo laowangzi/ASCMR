@@ -1,4 +1,4 @@
-# ACMR: Enhancing Cross-Market Recommendations by Addressing Negative Transfer and Leveraging Item Co-occurrences
+# ACMR (Bert4XMR): Enhancing Cross-Market Recommendations by Addressing Negative Transfer and Leveraging Item Co-occurrences
 This is the Torch implementation for our paper:
 
 >Hu Z, Nakagawa S, Cai S M, et al. Enhancing cross-market recommendations by addressing negative transfer and leveraging item co-occurrences[J]. Information Systems, 2024: 102388.
